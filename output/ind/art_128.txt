@@ -1,0 +1,49 @@
+
+                Personal data from around 2.7 million Facebook users in the EU was shared with analytics firm Cambridge Analytica, the European Commission announced on Friday (6 April).
+Facebook shared the new figure with EU Justice Commissioner Vera Jourova in a letter that she received Thursday evening, Commission spokesman Christian Wigand told reporters.
+“Unfortunately some explanations fall short of my expectations. It’s clear that data of Europeans have been exposed to a huge risk and I am not sure if Facebook took all the necessary steps to implement change,” Jourova said in a statement on Friday afternoon.
+The company was responding to an earlier letter that Jourova sent to the social media platform on 23 March, in which she demanded explanations about its knowledge of Cambridge Analytica’s alleged harvesting of up to 87 million Facebook users’ profiles for its work on political campaigns.
+Cambridge Analytica whistleblower Chris Wylie alleged last month that Facebook users’ data was analysed without their knowledge—and that the UK-based company worked for Donald Trump’s presidential campaign and the Leave campaign in the 2016 Brexit referendum.
+
+
+
+Whistleblower alleges illegal use of Facebook data swung Brexit vote
+Cambridge Analytica illegally rigged the 2016 Brexit referendum by harvesting Facebook profiles, a whistleblower has told MPs.
+
+
+Jourova will speak on the phone to Facebook chief operating officer Sheryl Sandberg early next week.
+Wigand said the letter did not include details confirming how many Facebook users in each EU country were affected by the data harvesting.
+A Facebook spokeswoman said that Cambridge Analytica collected data from 1,079,031 in the UK and a total of 309,815 users in Germany.
+Users of the social media platform were affected in all 28 EU member states.
+In Italy, 214,134 users were affected, and in France, 211,667. A total of 136,985 users in Spain had their data scooped up, and 112,421 in Romania.
+In the Netherlands, 89,373 users were affected, and 63,080 in Portugal. 60,957 Belgians’ profiles were harvested, and 59,480 Greeks’. In Poland, 57,138 users were affected; in Sweden, 55,337; in Ireland, 44,702; in Denmark, 41,820; in Bulgaria, 35,718; in Austria, 33,568; in Hungary, 32,067; in the Czech Republic, 29,376, in Croatia, 21,517; in Finland, 19,693, in Lithuania, 15,123; in Slovakia, 14,846, in Slovenia, 11,255; in Cyprus, 7,455; in Malta, 6,011; in Estonia, 5,510; in Latvia, 4,757, and in Luxembourg, 2,645.
+Facebook CEO Mark Zuckerberg admitted during a conference call with reporters on Wednesday that the company had made mistakes in its handling of the incident. He said Cambridge Analytica’s collection of profile data through an app broke Facebook’s terms and conditions, which the analytics firm has denied.
+Zuckerberg also said that Facebook will step up its privacy settings and apply the EU’s strict new data protection regulation, known as the GDPR, worldwide.
+In response to backlash over the scandal, the company announced last month that it would shut down a feature that allows companies to collect Facebook users’ data in order to target them with advertising and other information. The company also changed its user terms to make its privacy policy easier to understand.
+“I appreciate that they are trying to be more transparent,” Jourova said.
+Her office is in contact with the United States Federal Trade Commission and the UK data protection authority ICO, which are both investigating the data harvesting.
+Jourova called the incident “a threat to our democracy and electoral processes”.
+ICO’s investigation of Cambridge Analytica and Facebook is part of a broader inquiry into whether political campaigns have broken privacy laws by analysing citizens’ personal data.
+
+
+
+Facebook tries out charm offensive with four EU Commissioners
+Facebook executive Sheryl Sandberg attempted to woo a team of four EU Commissioners during closed-door meetings Tuesday (23 January) on tense issues like hate speech and online platform transparency.
+
+
+“I would like to speak with Ms Sandberg about how they intend to ensure transparency and respect the rules of our democratic debate and how they plan to change once the GDPR is in place,” Jourova said.
+The GDPR will give people in the EU more rights to privacy, and add hefty fines of up to €20 million, or as much as 4% of their annual worldwide turnover, for companies that break the law.
+“This story is too important, too shocking, to treat it as business as usual. The internet is not a space free of rule of law. The rules that apply offline also need to be respected in the online world. Those companies have a great power; I want them to also bear great responsibility,” she added.
+Facebook has seen its stock prices fall since details of the incident were published by the New York Times and the Observer last month.
+Regulators in the US and Europe have amped up pressure on the company since the reporters were published.
+The umbrella group of powerful data protection authorities from EU countries will discuss the case at a two-day plenary meeting next week (10-11 April) in Brussels.
+Andrea Jelinek, the chair of the group, said last month that the EU regulators are supporting the ICO’s investigation. They could also open a joint inquiry into whether the companies broke EU data protection law in other member states.
+Separately, the UK Parliament’s digital and culture committee is investigating the incident. Two former Cambridge Analytica executives and Facebook chief technology officer Mike Schroepfer will speak before the committee later this month.
+
+
+
+EU heads of state issue warning over Facebook data case
+The 28 EU heads of state issued a warning shot on Thursday (22 March) over allegations that 50 million Facebook users’ data was harvested without their consent to influence political campaigns.
+
+
+            

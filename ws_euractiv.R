@@ -8,7 +8,7 @@ i <- 1
 
 # ----- Webscraping data -----
 while (end == FALSE) {
-  url <- paste(c("https://www.euractiv.com/page/", i, "/?s=democracy+eu&year=2018&orderby=post_date&order=ASC"), collapse = "")
+  url <- paste(c("https://www.euractiv.com/page/", i, "/?s=democra+eu+reform&year=2014&orderby=post_date&order=ASC"), collapse = "")
   pagina <- try(read_html(url))
   
   # Continuity test
@@ -52,10 +52,24 @@ while (end == FALSE) {
 closeAllConnections()
 # Removing entries without hyperlink
 euractiv <- euractiv[!is.na(euractiv$hyperlink), ]
+euractiv <- euractiv[!duplicated(euractiv$headline),]
+
+# filtering 
+table(euractiv$content.type)
+index <- grep(pattern = 'video', x = euractiv$content.type, ignore.case = TRUE)
+euractiv$hyperlink[index]
+
+
+table(euractiv$topic)
+euractiv <- subset(x = euractiv, subset = topic != 'Transport')
+euractiv <- subset(x = euractiv, subset = topic != 'Health')
+euractiv <- subset(x = euractiv, subset = topic != 'Agrifood')
+
 
 # ----- individual extraction -----
 euractiv$source <- NA
 euractiv$full.text <- NA
+euractiv$promoted <- NA
 # Extracting especific data
 for (i in 1:nrow(euractiv)) {
   url <- euractiv$hyperlink[i]
@@ -68,6 +82,13 @@ for (i in 1:nrow(euractiv)) {
   node <- ".ea-article-body-content"
   euractiv$full.text[i] <- tryCatch(pagina %>% html_nodes(node) %>% html_text(),
                                          warning = function(w) {print("Fail in 1"); return(NA)})
+  # Is promoted
+  node <- '#main_container b'
+  temp <- tryCatch(pagina %>% html_nodes(node) %>% html_text(),
+                                   warning = function(w) {print("Fail in 1"); return(NA)})
+  if (length(temp) != 0) {
+    euractiv$promoted[i] <- temp[1]
+  }
 }
 
 # ----- Cleaning entries -----
@@ -87,6 +108,13 @@ euractiv$clean.text <- euractiv$full.text
 index <- grep(pattern = "[[:space:]]+", x = euractiv$clean.text)
 euractiv$clean.text[index] <-  trimws(gsub(pattern = "[[:space:]]+", replacement = " ", x = euractiv$clean.text[index]), which = "both")
 
+# Promoted content
+index <- grep(pattern = 'promoted', x = euractiv$promoted, ignore.case = TRUE)
+euractiv$promoted <- FALSE
+euractiv$promoted[index] <- TRUE
+
+# test
+
 # ----- Closing project -----
 # Removing objects
 rm(pagina)
@@ -105,5 +133,12 @@ rm(topic)
 rm(url)
 
 # Storing results
-save(file = "output/1_euractiv.Rdata", list = "euractiv")
-write.csv(x = euractiv, file = "output/euractiv.csv")
+save(file = "output/1_euractiv_14.Rdata", list = "euractiv")
+write.csv(x = euractiv, file = "output/euractiv_14.csv")
+
+euractiv$id <- 1:nrow(euractiv)
+
+for (u in 1:nrow(euractiv)) {
+  name <- paste(c('output/ind/art_', euractiv$id[u], '.txt'), collapse = '')
+  write(x = euractiv$full.text[u], file = name)
+}

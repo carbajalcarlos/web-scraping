@@ -1,0 +1,49 @@
+
+                The European Parliament announced on Monday (19 March) that it will investigate allegations that millions of Facebook users’ data was misused without their knowledge. The European Commission also called for national watchdogs to open their own probes of the incident.
+In a tweet on Monday (19 March), Parliament President Antonio Tajani called reports that the London-based data analytics company Cambridge Analytica harvested mass amounts of Facebook users’ data to swing the Brexit referendum and the 2016 presidential election in the United States “an unacceptable violation of our citizens’ privacy rights”.
+Tajani said the Parliament will “investigate fully, calling digital platforms to account”.
+
+
+Allegations of misuse of Facebook user data is an unacceptable violation of our citizens’ privacy rights. The European Parliament will investigate fully, calling digital platforms to account. #CambridgeAnalytics #CambridgeAnalyticaFiles
+— Antonio Tajani (@EP_President) March 19, 2018
+
+Claude Moraes, the chair of the Parliament’s Civil Liberties Committee (LIBE), sent a letter to Facebook on Monday asking the platform to attend a hearing about the allegations on either  26 or 27 March, or 9 or 12 April.
+“Such practices are worrisome and raise serious questions about the respect of the fundamental rights of privacy, data protection and freedom of expression of the affected users,” Moraes wrote in the letter. His office also sent the letter to the UK and Irish national data protection authorities.
+The Observer and The New York Times reported on Saturday (17 March) that Cambridge Analytica may have illegally taken information from 50 million Facebook profiles and used it to influence the two political campaigns without informing the users.
+The Leave campaign in the 2016 Brexit referendum and the Trump presidential campaign were both Cambridge Analytica clients, according to those reports.
+The UK data protection authority is already investigating the incident.
+On Monday, the British data protection chief Elizabeth Denham said, “A full understanding of the facts, data flows and data uses is imperative for my ongoing investigation. This includes any new information, statements or evidence that have come to light in recent days.”
+Facebook’s European headquarters is in Ireland.
+According to a whistleblower who worked at Cambridge Analytica, Facebook know about the company’s use of the data for two years but did not report it to users.
+Tajani said in a statement, “This incident is more than a breach of data, it’s a breach of trust that can threaten the very functioning of democracy.”
+
+
+
+Facebook tries out charm offensive with four EU Commissioners
+Facebook executive Sheryl Sandberg attempted to woo a team of four EU Commissioners during closed-door meetings Tuesday (23 January) on tense issues like hate speech and online platform transparency.
+
+
+Facebook denied over the weekend that the incident amounted to a full-blown data breach—which would legally require the company to alert authorities about how private data was compromised.
+The social media firm said over the weekend that it had suspended Cambridge Analytica’s account. In a statement on Saturday, the data analytics firm said that it complies with Facebook’s service terms and did not illegally harvest users’ profile data.
+The European Commission also put pressure on Facebook to answer questions about its knowledge of the incident.
+EU Justice Commissioner Vera Jourova will meet with Facebook representatives during a visit to Washington this week. Her trip was already planned to meet with US government officials including Secretary of Commerce WIlbur Ross and Attorney General Jeff Sessions, but Jourova’s office rushed to arrange the meeting with Facebook on Sunday after the allegations surfaced about the firm’s knowledge of the data harvesting.
+She departed for Washington on Monday. In a tweet on Sunday, she described the incident as “horrifying, if confirmed”.
+
+
+Horrifying, if confirmed. Personal data of 50 mln #Facebook users could be so easily mishandled & used for political purpose. We don't want this in the EU. #GDPR https://t.co/p2czcodOsi
+— Věra Jourová (@VeraJourova) March 18, 2018
+
+“From a European Union perspective, the misuse for political purposes of personal data belonging to Facebook users – if confirmed – is not acceptable. In the EU, data protection is a fundamental right. As a rule, personal data cannot be used without the consent of the person concerned,” Commission spokesman Christian Wigand said.
+Wigand said Jourova would raise the issue in meetings with US government officials.
+In a rare move that highlighted the Commission’s concern, Jourova also asked the so-called article 29 working party, the umbrella group of national data protection authorities from EU countries, to open an investigation into the incident. The Commission does not have its own power to sanction companies that break EU data protection law.
+The justice chief has already been in contact with the national authorities.
+The data protection watchdogs can coordinate their national investigations into potential breaches of EU data protection law, and can fine companies separately if they are caught breaking the rules.
+But in May, a stricter new EU data protection law will come into effect and give national authorities’ offices an arsenal of tougher powers. They will be able to launch EU-wide investigations into data protection violations and raise record-high fines of up to €20 million or 4% of a company’s global turnover.
+
+
+
+National privacy watchdogs brace for new pan-EU powers
+Europe’s powerful data protection regulators are banding together to coordinate how they investigate and sanction misbehaving companies before a major overhaul of the bloc’s privacy law takes effect in May.
+
+
+            
