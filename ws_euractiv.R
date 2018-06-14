@@ -113,6 +113,8 @@ index <- grep(pattern = 'promoted', x = euractiv$promoted, ignore.case = TRUE)
 euractiv$promoted <- FALSE
 euractiv$promoted[index] <- TRUE
 
+# test
+
 # ----- Closing project -----
 # Removing objects
 rm(pagina)
