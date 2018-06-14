@@ -115,6 +115,8 @@ euractiv$promoted[index] <- TRUE
 
 # test
 
+# Here is a change
+
 # ----- Closing project -----
 # Removing objects
 rm(pagina)
