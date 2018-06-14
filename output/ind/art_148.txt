@@ -1,0 +1,60 @@
+
+                The European Commission surprised tech policy observers this week when it suggested to amp up transatlantic cooperation on cybersecurity, just as Europe’s relations with the US are under strain following the Facebook data leakage scandal.
+Andrus Ansip, the European Commission Vice President in charge of the EU’s digital policies, has called for a new “secure transatlantic cyber area” with the US.
+He said at a Silicon Valley conference late on Wednesday (18 April) that the EU and US should also agree on the same cybersecurity standards to apply to internet-connected devices.
+Ansip’s call for stepped up cooperation with the US came as American lawmakers and tech companies grapple with last month’s revelations that millions of Facebook users’ data was mishandled, and start to pay closer attention to the EU’s new data protection law, known as the GDPR, that will take effect on 25 May.
+During a hearing in the US Congress last week, Facebook CEO Mark Zuckerberg offered praise for the legislation, which includes strict privacy rules and steep fines if companies misbehave.
+
+
+
+After Facebook scandal, MEPs argue the GDPR isn’t enough
+The EU needs more legal safeguards to prevent massive privacy breaches like the current scandal over Facebook and British political consulting firm Cambridge Analytica, MEPs from different political parties argued on Wednesday (18 April).
+
+
+Common cybersecurity standards
+The scandal surrounding Facebook and political consultancy Cambridge Analytica, which harvested data from the social media platform, has helped EU politicians argue the law is needed to control companies that collect users’ personal information.
+Since reports of the incident broke in March, European regulators have appeared confident about the bloc’s approach to regulating technology companies.
+Ansip’s call for closer cooperation on cybersecurity was unexpected in Brussels: it’s a sensitive area where regulators often hesitate to work with their counterparts from different countries. But the recent surge in Russian cybersecurity attacks targeting the US and Europe should change the way reluctant lawmakers think, Ansip suggested.
+“In Europe, as in the United States, we remain on the frontlines of these assaults on democracy, threatening to undermine institutions,” he said.
+It was Ansip’s proposal to come up with common cybersecurity standards that apply in the EU and the US that raised eyebrows in Brussels.
+Negotiations over a draft EU cybersecurity bill are simmering, and national governments and MEPs are still in early negotiations over a Commission proposal to create a cybersecurity certification system for internet-connected products that are sold in the EU. Talks won’t be easy, and some member states have expressed wariness that the plan could be an overstep into their national systems to approve product security.
+
+
+
+Commission should 'walk the walk' on cybersecurity, German chief says
+The European Commission should “walk the walk” and use strong encryption to protect its computer networks against hackers—instead of pushing member states to adopt controversial new legislation, the head of Germany’s cybersecurity agency has said.
+
+
+But Ansip sounded confident in Silicon Valley. He described the draft EU legislation as “a good basis to discuss and make sure that our cyber standards are aligned on both sides of the Atlantic”.
+“If both sides could agree on common security standards for the IoT [internet of things], this would set a global standard. Exchanging detailed information about cyber incidents will help to prevent future attacks,” the former Estonian prime minister told conference attendees.
+Since EU-level discussions could still drag on for several months or longer, any broader agreement on cybersecurity rules with the US would likely take years.
+Early reactions positive
+But early reactions to Ansip’s suggestions have been positive. Some observers of the bloc’s tech policies said such an agreement on cybersecurity standards would be a way of promoting the EU’s technology rules to other countries.
+Dutch Liberal MEP Marietje Schaake said that despite clear “tensions and concerns” clouding transatlantic relations since President Trump took office in 2017, the EU and US should cooperate more on digital security.
+“While attacks on the EU and on fundamental rights need to be challenged, the US is more than the White House, and we see a new appreciation for the European approach to regulation of the digital world in the public interest,” she said.
+Schaake described the EU’s comparatively tough regulation on several technology issues as evidence that the bloc is “setting norms that would ideally be transatlantic and even global norms”.
+
+
+
+EU cybersecurity boss eyes hardware as early target for certification plans
+A draft bill to set up an EU system certifying the cybersecurity level of tech products is still trapped up in negotiations after the European Commission announced the overhaul last September.
+
+
+For some cybersecurity researchers, any future agreement with the US on standards would be a practical way to pressure companies to create secure products.
+“The fact that Ansip talks about this is sort of a big deal,” said Jan-Peter Kleinhans, who researches cybersecurity and the internet of things at the Berlin-based think tank Stiftung Neue Verantwortung.
+Kleinhans said it is unlikely the EU could set a global standard once its cybersecurity certification system is in place, similar to how some countries outside the bloc have drawn from the GDPR to draft their own tougher data protection laws.
+“With IT security, it’s different because these devices are manufactured in Asia, especially consumer devices, and it only works if we make the case to companies why they should pay attention to European standards,” he said.
+Companies are more likely to comply with standards that are the same for two large markets, the EU and the US, because chances are higher that oversight bodies would catch them if they do not uphold security rules, according to Kleinhans.
+He predicted that sealing an agreement with the US on cybersecurity standards might be easy for low-level consumer items like internet routers and webcams because those discussions would be technical, and not necessarily fraught with disagreement over politically charged issues like privacy.
+There has been a recent uptick in cybersecurity attacks targeting inexpensive household products with weak security features. The US and UK governments warned earlier this week that Russian hackers had preyed on home internet routers.
+For some big technology companies, Ansip’s proposal to develop common standards with the US is a sign that the EU rules might not disrupt their business. Some firms have been concerned the legislation might set cybersecurity criteria that are much tougher than other countries’ systems.
+DigitalEurope, a Brussels-based association that represents companies including Google and Microsoft, criticised the Commission’s original proposal to create an EU certification system last year, arguing that higher standards in Europe might create a trade barrier with countries outside the bloc.
+Iva Tasheva, DigitalEurope’s cybersecurity policy manager, said on Thursday that the EU system should “be compatible with existing international mutual recognition mechanisms”. International mechanisms could include systems outlining common criteria to test product safety.
+
+
+
+EU cybersecurity chief: Now is the time to discuss liability
+There needs to be more discussion about liability for cybersecurity attacks, Steve Purser, director of operators at the EU cybersecurity agency ENISA, told EURACTIV.com in an interview.
+
+
+            

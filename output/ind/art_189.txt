@@ -1,0 +1,72 @@
+
+                For 25 years, the internet allowed business models to rampantly grow and radically change everyday life. Now, a period of regulation has come – and the awareness of the impact of digitisation. EURACTIV Germany’s media partner “Der Tagesspiegel” reports.
+One can still buy baked goods without the help of the internet or other digital aids, although baking requires local knowledge and a suitable recipe.
+However, almost 30 years after the invention of the internet and 25 years after the World Wide Web was opened for use and constant development to the public on April 30, 1993, it has revolutionised everyday life – new industries, cultural techniques and dependencies have emerged, since computers effectively communicate remotely.
+The net was supposed to allow for a rule-free discourse without state or economic dependencies and controls, and some of these utopias have become reality: oppressing opinions is far more difficult than it was in the 1980s while sending opinions to the world has never been so easy and cheap as it is today.
+But the history of the internet is also one of rapid and almost unlimited commercialisation. From the idea of decentralised communication to an infinite number of individual networked computers, global corporations have emerged that not only market transmission capacity and storage space but also manage every communication with their respective software and with more and more networked devices – including their own production machines, medical devices, kitchen appliances and toys. At the same time, they store, link and market the data produced and collected.
+
+
+
+Work 4.0 – opportunities and risks
+Digitization is on everyone’s lips and will change the working world in the next couple of years. For employers this poses a range of risks – but could also open some chances, as a recent analysis shows. EURACTIV Germany reports.
+
+
+Today, this economic chain is often more of a one-way street than a cycle: companies collect data, mine and multiply their value through processing and constantly develop new techniques for their further propagation and specification. The producers of data are paid for it with services that make their life more convenient: from health to travel and leisure-time.
+But it is only supposedly free of charge because everyone pays with their data. German Minister of Culture and Media, Monika Grütters (CDU), recalled this in a commentary for the “Tagesspiegel”: “The price of the business model of convenience is to a considerable extent our data.” For this, awareness has yet to be developed.
+“Monopolies today arise from user numbers and data – which, however, are not regarded as economic value”, explains Anke Domscheid-Berg, head of the “Digital Agenda” committee of the German Bundestag.
+Producers of data are often referred to not as customers but – persistently and euphemistically – as users. At best, the seemingly free service of social networks, search engines, and apps is sometimes counted up in return for the masses of personal data that they generate, query, record, store, compare, link, and sell.
+Almost everything has a digital component – and a data track
+Each photograph taken with a phone or digital camera will store not only the actual image but also the exact location, the exact time – including whereabouts of both, the photographer and the photographed, and by facial recognition software maybe even the mood of each person.
+Such information can be combined with data traces from online shopping or discount cards, travel bookings and news sites readings, information about friends and interests on Facebook or Google, dress sizes and skin colors, home address and navigation data, signs of disease from optical and haptic applications on smartphone or e-reader – and added up to a profile.
+This data can help mankind, coordinated by networked knowledge and action, to effectively protect the environment and make good use of energy, to strengthen research and education, share opinions and knowledge.
+Digitisation is thus still following its initial utopias. However, the data masses can also be used for monitoring and tracking purposes, for social or economic disadvantage, for influencing.
+In any case, their very existence in states, companies and digital networks also completely redefines the privacy of each individual, the sense of it and many everyday activities – the sole knowledge can lead to feelings of inferiority, powerlessness or omnipotence, to fear of persecution and mistrust.
+
+
+
+Commission demands EU leaders approve deadlocked ePrivacy bill
+The European Commission is amping up pressure on EU leaders to approve a controversial privacy bill, deadlocked in legal talks for more than a year, after the data breach scandal involving Facebook and Cambridge Analytica.
+
+
+Behind it stands a completely different perception and use of the public. For Grütters, “digitisation puts democracy and the rule of law to the test”: the Internet “currently allows more freedom than democracy can tolerate”.
+Civilisational achievements such as the freedom of art and expression of art, cultural and media diversity, copyrights and personal protection would therefore need “a political update: an adaptation to changing framework conditions”.
+Data protection has to reposition itself
+On May 25, the GDPR will enter into force in all 28 EU member states, replacing the old EU data protection guidelines from 1995 – a time when everyday life was still far from being fully digitised and many common techniques used today were not even imaginable.
+As a regulation, the new law automatically has legal force and does not have to be translated into national law. It actually has been in effect since the end of May 2016 but by the time the transitional period expires, companies must have adapted to better protect data than they did before.
+An important goal is data sovereignty of customers and users: According to the new rules anyone can request detailed information about the handling of their data from the companies – and also the data stored there can be transmitted.
+With the so-called ‘Right to be forgotten’ one can request to delete data, for example, to remove youthful sins or unpleasant missteps, at least in the digital biography – if there are no legal reasons or a public interest to keep them.
+Merkel: Artificial intelligence without data masses is “like a cow that does not get food”
+Users should become independent from platforms and be able to “move” without data loss, for example from one social network to another – because this raw material is theirs.
+As with large legislative projects, there have been years of intensive lobbying against excessive regulations, even German Chancellor Angela Merkel and the Grand coalition have repeatedly pointed to the importance of data economy.
+This week, Merkel warned that, of course, people should be able to dispose of their data – but the rules should not become “impractical” as artificial intelligence, for instance, cannot develop without large amounts of data as raw material.
+
+
+
+Commission expects EU countries to set ‘high fines’ under new cybersecurity law
+European Commission officials who pushed through new cybersecurity legislation set to take effect next week are expecting EU countries to introduce high fines against companies that disobey the rules.
+
+
+While large companies have now implemented the requirements and adjusted their terms of use (which have become a bit longer, but more understandable), many small companies, start-ups, freelancers and clubs experienced an eleventh-hour panic – not only because not everything in the new basic regulation is clear.
+The boundaries between privacy and public have long since become unclear in the digital society: in what area is the internet a public medium, a private album or entrepreneurial tool?
+Again and again, clever lawyers scent a treasure behind the ambiguity. Whether it will cause a wave of lawsuits remains to be seen. It can be expected that many individual, borderline and special cases will be tried in court – and will make the digital rights more concrete and understandable.
+Companies and authorities must be able to design basic settings for their services in a manner that protects their privacy and documents the compliant handling of the data and, if in doubt, can prove this in court.
+In the event of grave violations, data protection authorities may impose fines on companies of up to €20 million in the future, or four percent of the worldwide annual turnover of a company, whichever is bigger. For big companies, that can go into the billions. Until now,  it’s been €300,000 at most.
+Digital life needs digital fundamental rights
+German Justice Minister Katarina Barley (SPD) demanded transparency on the artificial intelligence algorithms at the internet conference re:publica.
+Citizens need to be able to understand the functioning of the systems that generate specific recommendations and information – they also have one in the interest of democratic neutrality appropriately regulated programming is possible in the long term.
+Like Domscheid-Berg and sociologist Heinz Bude, Barley supports the development of a Charter of Digital Fundamental Rights of the EU – which goes far beyond data protection.
+
+
+
+Schools of tomorrow – building and transforming skills for a digital world
+Europe’s bid to lead the digital and advanced technology trend will be lost if the EU and national governments don’t take steps to make skills development in digitisation their priority. Digital skills need to be conveyed at all levels and in all forms of education to ensure Europe’s global position, writes Martina Dlabajová.
+
+
+At the initiative of ex-European Parliament President Martin Schulz (SPD), the late FAZ co-editor Frank Schirrmacher and “Time” Editor-in-Chief and “Tagesspiegel” editor Giovanni di Lorenzo, for several years a charter has been in the works, aiming to promote freedom, equality and human dignity, democratic principles and Individual rights translated into the digital age.
+When presented by the “Zeit”-Foundation, it was declared that “the time of the robber barons” has to come to an end:
+While digital companies created for decades their own rules and conditions, because their technical and cultural innovations were moving faster than state and social regulation, we now have a “civilisation” of the global network and data economy.
+After ideas have become business models and business models have become global corporations, the ideas of society – of the state and the citizens – are getting better understood and critically questioned as to who benefits and who suffers.
+A renegotiation is taking place about who owns data and data collections – their producers, their collectors or the general public?
+And since individual companies have created an industry, regulation is also in their very own interest:
+If idea-based data is to become physical – such as smart cities, furniture or food from 3D printers, “then DIN standards” are needed. There is no industrial network without norms and rules according to which data can be connected, compared and processed further.
+            
